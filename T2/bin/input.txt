@@ -1,0 +1,7 @@
+Scope:AfterLUntilR
+Pattern:Response
+L_AtLeastOneE_3
+R_AtLeastOneC_3
+P_ConsecutiveC_3
+Q_EventualC_3
+----------------------------------

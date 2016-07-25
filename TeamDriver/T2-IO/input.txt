@@ -1,0 +1,7 @@
+Scope:AfterLUntilR
+Pattern:StrictPrecedence
+P_ParallelC_3
+Q_AtLeastOneE_3
+L_ParallelE_3
+R_EventualC_3
+---------------------------------------------------------------

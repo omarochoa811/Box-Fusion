@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Instrumentor"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/T2"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SimpleLTLGenerator"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XmlCleaner"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
